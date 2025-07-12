@@ -1,0 +1,7 @@
+python-dotenv
+httpx
+nest_asyncio
+openpyxl
+python-telegram-bot
+mysql-connector-python
+google-generative-ai
